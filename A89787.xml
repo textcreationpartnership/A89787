@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr Sadler re-examined, or, His disguise discovered. Shewing, the grosse mistakes and most notorious falshoods in his dealing with the Commissioners for Approbation of Publike Preachers in his Inquisitio Anglicana. : Wherein also a brief and true account is given of their righteous proceedings with him and those that come before them. / By one who has been a constant eye and ear-witnesse of all their proceedings, though now in no relation to them.</title>
+            <author>Nye, John, d. 1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89787</idno>
+            <idno type="STC">Wing N1480</idno>
+            <idno type="STC">ESTC R203017</idno>
+            <idno type="EEBO-CITATION">45097877</idno>
+            <idno type="OCLC">ocm 45097877</idno>
+            <idno type="VID">171456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2574:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr Sadler re-examined, or, His disguise discovered. Shewing, the grosse mistakes and most notorious falshoods in his dealing with the Commissioners for Approbation of Publike Preachers in his Inquisitio Anglicana. : Wherein also a brief and true account is given of their righteous proceedings with him and those that come before them. / By one who has been a constant eye and ear-witnesse of all their proceedings, though now in no relation to them.</title>
+                  <author>Nye, John, d. 1688.</author>
+                  <author>Nye, Philip, 1596?-1672.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Webb and William Grantham, at the signe of the Bear in Pauls Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This has been wrongly attributed to Philip Nye, but ... [was] written by his son John Nye, in his father's defence."--Halkett and Laing, v. 4, p. 129.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sadler, Anthony, b. 1610. --  Inquisitio Anglicana.</term>
+               <term>England and Wales. --  Commissioners for Approbation of Public Preachers.</term>
+               <term>Clergy --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171456:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>SADLER</hi> RE-EXAMINED, OR, His Diſguiſe diſcovered.</p>
+            <p>
+               <hi>SHEWING,</hi> The groſſe miſtakes and moſt notorious Falſhoods in his dealing with the Commiſſioners for Approbation of Publike Preachers in his <hi>INQUISITIO ANGLICANA.</hi>
+            </p>
+            <p>WHEREIN Alſo a Brief and true account is given of their righteous proceedings with him and thoſe that come before them.</p>
+            <p>By One who hath been a conſtant Eye and Ear-Witneſſe of all their proceedings, though now in no relation to them.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathanael Webb</hi> and <hi>William Grantham,</hi> at the Signe of the Bear in <hi>Pauls</hi> Churchyard. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171456:2"/>
+            <pb n="1" facs="tcp:171456:2"/>
+            <head>M<hi rend="sup">r</hi> 
+               <hi>SADLER</hi> RE-EXAMINED.</head>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>
+                  <seg rend="decorInit">A</seg>Nthony Sadler</hi> a Miniſter of the Goſpel (as he ſaith) inwardly called thereto by the Spirit of God, and outwardly by the Ordi<g ref="char:EOLhyphen"/>nation of D<hi rend="sup">r</hi> 
+               <hi>Corbet</hi> Biſhop of <hi>Oxon,</hi> Com<g ref="char:EOLhyphen"/>plaineth againſt the Proceedings of the Com<g ref="char:EOLhyphen"/>miſſioners at <hi>Whitehall</hi> for Approbation of Miniſters, and againſt their Commiſſion which doth authorize their doings; as he ſaith: And gives in as grounds of this Complaint, their Injuſtice, Partiality, Delayes, and other Injuries done to ſuch as come to them.</p>
+            <p>That theſe things are ſo, and his Complaint juſt, is by an Inſtance of their Proceedings in the Diſapproving of himſelf and one M<hi rend="sup">r</hi> 
+               <hi>Taylor</hi> of <hi>Yorkeſhire,</hi> wherein many things as Matter of Fact are preſented to make good his Complaint and the grounds of it: In the examination whereof, the evil ſurmiſes, groſs miſtakes, and moſt notorious falſhoods of the ſaid Complaint, and his ill ſpirit in it, will abundantly appear to any indifferent Reader.</p>
+            <p>For the Commiſſion, which he termes a Spaniſh Inquiſition, and the Importance of it, and the abſolute neceſſity of ſome ſuch way of Approbation, for ſubſtance, as is directed in that Ordinance, if ever there be a Soul-ſaving Miniſtry ſetled through <hi>England,</hi> is likely to be the ſubject of a more able Pen ſhortly. My undertaking at the preſent, is to diſcover the Impoſture and Falſhood in matters of Fact, Pleaded by him and laid as the Foundation upon which the whole Pile is ſet.</p>
+            <p>Upon this he builds not only High Reproaches againſt one of the Commiſſioners, who I am able to ſay did as much for
+<pb n="2" facs="tcp:171456:3"/>him as in Conſcience he durſt: But ventures at all the re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, thirty or fourty Perſons together (eminently known for their worth, choſen out of both Univerſities, the City of <hi>London</hi> and other places for their Prudence and Sincerity) are put under horrid and vile Repreſentations by him.</p>
+            <p>And yet this is not enough: he ventures alſo to open his mouth wide againſt the Powers he appeals to: The Ordi<g ref="char:EOLhyphen"/>nance and Commiſſion it ſelf of ſuch Importance in the Con<g ref="char:EOLhyphen"/>tents of it, done upon ſuch deliberation, and with the aſſi<g ref="char:EOLhyphen"/>ſtance of the ableſt Lawyers in this Nation, publiſhed and acted upon, to the Comfort and ſpiritual refreſhing of Thou<g ref="char:EOLhyphen"/>ſands: And now all this is done, in his ſight (who is thus lifted up high in his own conceipt) this ſeems to be but a kind of Romiſh-Spaniſh-Inquiſition.</p>
+            <p>I will begin where he begins, with Matter of Fact, <hi>pag.</hi> 4. <hi>of his Book.</hi> There begins the Legend, the former Pages con<g ref="char:EOLhyphen"/>tain the vapors only exhaled from his corrupt and rotten Story, which followeth.</p>
+            <div n="1" type="section">
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler</hi> §. 1.</head>
+               <p>I <hi>Anthony Sadler</hi> a Miniſter of the Goſpel, <hi>&amp;c.</hi>
+               </p>
+               <p>I put in my Certificate upon the 10<hi rend="sup">th</hi> of <hi>June;</hi> which (waiting conſtantly upon them) was (upon the 14<hi rend="sup">th</hi> day) Rejected, and Redelivered me by M<hi rend="sup">r</hi> 
+                  <hi>Nye</hi> the Commiſſioner, ſaying, <hi>It was no Certificate.</hi>—</p>
+            </div>
+            <div n="1" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 1.</head>
+               <p>The Ordinance by which the Commiſſioners ſit enjoyneth, That <hi>before any Admittance there ſhall be brought to the Com<g ref="char:EOLhyphen"/>miſſioners, a Teſtimonial in writing ſubſcribed with the hands of three Perſons,—who muſt teſtifie upon their Perſonal knowledge.—Which ſaid Certificate ſhall be duly Regiſtred and Filed.</hi>
+               </p>
+               <p>M<hi rend="sup">r</hi> 
+                  <hi>Sadlers</hi> Certificate was the Certificate of One, of a ſingle Perſon, the Form of it thus:
+<q>Whereas the Bearer hereof <hi>Anthony Sadler,</hi> a Miniſter of Gods moſt holy Word, and my Domeſtick Chaplain, <hi>&amp;c.</hi>—I thought good to atteſt, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>
+                  <pb n="3" facs="tcp:171456:3"/>
+This was returned to him by the hands of M<hi rend="sup">r</hi> 
+                  <hi>Nye,</hi> with the true reaſon why they could not Regiſter ſuch a Certificate; who in all readineſs as himſelf acknowledgeth, directed him to Form One according to the Ordinance, which he accor<g ref="char:EOLhyphen"/>dingly did, as in the next.</p>
+            </div>
+            <div n="2" type="section">
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler,</hi> §. 2.</head>
+               <p>I tranſeribed their own Form; which upon the <hi>19<hi rend="sup">th</hi>
+                  </hi> of June I exhibited with the Hands of—
+<list>
+                     <item>LETICIA <hi>Lady</hi> PAGETT.</item>
+                     <item>WILLIAM <hi>Lord</hi> PAGETT.</item>
+                     <item>GEORGE MANLEY, <hi>late Juſtice of Peace.</hi>
+                     </item>
+                     <item>JOHN VINER, <hi>Miniſter of</hi> Weſtminſter.</item>
+                     <item>EDWARD MARTYN, <hi>now in Commiſſion.</hi>
+                     </item>
+                     <item>ANTHONY TINGLE, <hi>Clerk of the Ab<g ref="char:EOLhyphen"/>bey at</hi> Weſtminſter.</item>
+                  </list>
+               </p>
+               <p>I waited day after day for Nine daies, after this; uſing all the lawful means I could, that I might but come unto my Triall.</p>
+            </div>
+            <div n="2" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 2.</head>
+               <p>
+                  <hi>The</hi> 19<hi rend="sup">th</hi> 
+                  <hi>of June</hi> he ſaith. Now the 24<hi rend="sup">th</hi> of <hi>June</hi> by the Ordi<g ref="char:EOLhyphen"/>nance, was the laſt for all that were preſented in the former whole year, to procure their Admittance, under the Penalty of Lapſe, as appeareth in the ſaid Ordinance: The Commiſſioners extremely burdened with the Multitude that attended, were inforced to lay aſide all other buſineſs, and for their ſakes who were in danger of Lapſe (which was not his Caſe) to intreat of others attending, to forbear untill thoſe were diſ<g ref="char:EOLhyphen"/>patched: M<hi rend="sup">r</hi> 
+                  <hi>Sadler</hi> alſo upon this Account was by one of the Commiſſioners ſpoken to, ſo that it is hardly beleeved he did or needed thus to wait: But if it were ſo, it was with leſs Inconvenience unto him, living but at <hi>Weſtminſter,</hi> then many others: And indeed in thoſe firſt three moneths, the buſineſs was ſo much and great upon their hands, as it was impoſſible to give that diſpatch (eſpecially to ſuch as were Doubtfull) as each deſired.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="4" facs="tcp:171456:4"/>
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler,</hi> §. 3.</head>
+               <p>My Delay was very Troubleſome (though not, it may be, Chargeable, as that of M<hi rend="sup">r</hi> 
+                  <hi>Taylors</hi> was, who came from <hi>Yorke</hi> to <hi>London,</hi> and being Called, Examined, and Approved, at three weeks end; was yet ſtayed ſeven weeks after; and at the laſt, (having ſpent above 20<hi rend="sup">lb</hi>.) was enforced to return without their Inſtrument; becauſe (as M<hi rend="sup">r</hi> 
+                  <hi>Nye</hi> told Him; and He, Me;) <hi>His Certificate was not ſubſcribed by Hands they knew.</hi>)</p>
+            </div>
+            <div n="3" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 3.</head>
+               <p>This ſeems to be the Maſter-piece of M<hi rend="sup">r</hi> 
+                  <hi>Sadlers</hi> ſlanders: Three Particulars are affirmed:
+<list>
+                     <item>1. M<hi rend="sup">r</hi> 
+                        <hi>Taylor</hi> upon Examination was <hi>Approved.</hi>
+                     </item>
+                     <item>2. He was <hi>staid</hi> (by the Commiſſioners) <hi>ſeven weeks after and ſpent above</hi> 20<hi rend="sup">lb</hi>.</item>
+                     <item>3. <hi>He returned at laſt without their Inſtrument, becauſe his Certificate was not ſubſcribed by Hands they knew.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Two of theſe are given out unto the world upon M<hi rend="sup">r</hi> 
+                  <hi>Sad<g ref="char:EOLhyphen"/>lers</hi> own Credit, the third he had from the Parties own mouth, as he ſaith, That no man may doubt the Truth of them: If theſe things be true, they are ſo much to his Purpoſe, that M<hi rend="sup">r</hi> 
+                  <hi>Taylor</hi> well deſerved the honour to have written the firſt <hi>Inquiſitio Anglicana.</hi> But</p>
+               <div n="1" type="refutation">
+                  <head>1. M<hi rend="sup">r</hi> 
+                     <hi>Taylor</hi> was not approved.</head>
+                  <p>For the attendance of M<hi rend="sup">r</hi> 
+                     <hi>Taylor,</hi> which you ſay was three weeks, and of many others beſides him or M<hi rend="sup">r</hi> 
+                     <hi>Sadler,</hi> was not occaſioned from any neglect in the Commiſſioners, who ſate conſtantly every day fore-noon and afternoon. But upon that juſt account given in the laſt Anſwer. Upon the 27<hi rend="sup">th</hi> day of <hi>June</hi> the ſecond day they ſate after the hazard of Laps was over, they endeavoured his diſpatch, the reſult as recorded in their Book, was this that followeth.</p>
+                  <p>
+                     <hi>July</hi> 27. 1654. M<hi rend="sup">r</hi> 
+                     <hi>Taylor</hi> his Certificate read, and the perſon examined, he hath given ſome <hi>indifferent</hi> ſatis<g ref="char:EOLhyphen"/>faction, but in regard his Certificate is imperfect, the
+<pb n="5" facs="tcp:171456:4"/>Commiſſioners doe reſpite their <hi>Approbation,</hi> till he <hi>mend his Certificate.</hi> And that they may <hi>enquire</hi> fur<g ref="char:EOLhyphen"/>ther concerning him.</p>
+                  <p>Therefore 1. It is not ſo as he affirmeth, <hi>this man was appro<g ref="char:EOLhyphen"/>ved by them:</hi> It is true ſuch an <hi>Opinion</hi> was recorded of him, as (upon further underſtanding and ſatisfaction in reſpect of his converſation) the Commiſſioners need not be put to the trouble of re-examination, which without ſome ſuch remem<g ref="char:EOLhyphen"/>brance could not be prevented whenſoever they came to his Approbation: And let me adde here, he giving ſo juſt an occaſion.—</p>
+                  <p n="2">2. Neither is that true which he intimated <hi>Pag.</hi> 3. as their method; <hi>They firſt queſtion the Form of his Certificate, and if this will not do, then they ſcruple the perſons ſubſcribing, and if this will not do, then thirdly he is called for and examined,</hi> &amp;c.</p>
+                  <p>The falſhood of this doth evidently appear by the proceed<g ref="char:EOLhyphen"/>ings of the Commiſſioners before-mentioned in M<hi rend="sup">r</hi> 
+                     <hi>Taylors</hi> Caſe, and ſo M<hi rend="sup">r</hi> 
+                     <hi>Sadler</hi> is condemned by his own witneſſe, and indeed their ordinary Method is (as with M<hi rend="sup">r</hi> 
+                     <hi>Taylor.</hi>) 1. Although the Certificate do not ſatisfie ſo fully, yet they call in the perſon. 2. If they finde him ſo qualified, as if he had a good Certificate, they might approve, he is no longer neceſſitated to any perſonall attendance, but may by any Friend or Sollicitor exhibite his better Certificate, and by the ſame hand receive the Inſtrument of his admittance. 3. If a man be in any reſpect doubtfull, they take the trouble of en<g ref="char:EOLhyphen"/>quiry upon themſelves (as in this inſtance) for having the advantage of frequent Poſts in the compaſſe of a Week or ten daies they can underſtand from any part of <hi>England,</hi> and know of what repute the man is whenceſoever he comes: This M<hi rend="sup">r</hi> 
+                     <hi>Sadler</hi> laieth to their charge <hi>Pag.</hi> 2. as a crime, <hi>They have by their Informers</hi> (ſaith he) <hi>Intelligence from all parts;</hi> ſurely he only that hath done evil hateth this light.</p>
+               </div>
+               <div n="2" type="refutation">
+                  <head>2. He was not <hi>ſtaid ſeven weeks by the Commiſſioners</hi> whatſoever he ſpent in that time. Thus it's cleared.</head>
+                  <p>After he had given overture to the Commiſſioners at his firſt being before them, of his going back to his charge, he
+<pb n="6" facs="tcp:171456:5"/>knowing they heard he was ſtill about the Town, and how he avoided coming in ſight, and thinking this would offend them, excuſeth himſelf by a Letter to them (which I have by me) beginning thus,—<hi>I beſeech you excnſe my long ſtaying in Town, it was about importunate buſineſſe at Bedford,</hi> &amp;c.</p>
+                  <p>Let the Reader judge whether it be poſſible for M<hi rend="sup">r</hi> 
+                     <hi>Sadler</hi> to make a truth out of this notorious falſhood.</p>
+               </div>
+               <div n="3" type="refutation">
+                  <head>3. For what he addes in the third place, That The Cauſe of his return unapproved was, <hi>becauſe his Cer<g ref="char:EOLhyphen"/>tificate was ſubſcribed by men they knew not,</hi> I give this account.</head>
+                  <p>The 9<hi rend="sup">th</hi> of <hi>Auguſt</hi> following h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame again to the Com<g ref="char:EOLhyphen"/>miſſioners with a Certificate and a Letter, in which it was ſent: This Letter bearing date <hi>Auguſt</hi> the firſt, was penned as from his Pariſhioners, and ſuch expreſſions as theſe, <hi>viz. We are heartily grieved for your long abſence; We are in<g ref="char:EOLhyphen"/>formed you are ſought to for York; We hope in the Lord you will not forſake us; It will be a great loſſe to us and other Pa<g ref="char:EOLhyphen"/>riſhes round about which long for your coming home; We hope this Certificate will ſerve your turn: You know theſe men every one are of known note,</hi> &amp;c.</p>
+                  <p>The Commiſſioners by a good Providence found it out, That there was never any ſuch Letter written by his Pariſhio<g ref="char:EOLhyphen"/>oners, it was forged by himſelf, and the Names to it counter<g ref="char:EOLhyphen"/>feited: The Certificate alſo, the Names to it ſome by him<g ref="char:EOLhyphen"/>ſelf, and ſome by the hand that wrote the Certificate; The Commiſſioners were able ſo fully to convince him of all this his forgery, that though he denied it notoriouſly at firſt, he could not at laſt but acknowledge it, Of all this am I an eye and ear-witneſſe, and have the Letters and Certificate to ſhew, and for this cauſe the Commiſſioners durſt not approve him; And he was diſmift the ſame day, not by any meſſage ſent him, but by the whole board, he being preſent, who alſo dealt with him in a Chriſtian way for this his evil doing.</p>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler,</hi> §. 4.</head>
+               <p>At laſt (being wearied with this ſtrange attendance) I ſent
+<pb n="7" facs="tcp:171456:5"/>in a Note to <hi>M<hi rend="sup">r</hi>
+                  </hi> Nye and <hi>M<hi rend="sup">r</hi>
+                  </hi> Peters, humbly entreating them, that I might have the favour to be Examined, for I had waited almoſt three weeks.</p>
+               <p>Word was brought me forthwith, That the Hands to my certificate were not approved of; That Afternoon their Clerk told me as much, and ſo gave me again my Certificate, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Preſentation both; (I ſay my Preſentation, for This they kept all the while, that they might be informed of the value of it.)</p>
+            </div>
+            <div n="4" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 4.</head>
+               <p>Munday the 26<hi rend="sup">th</hi> of <hi>June,</hi> the very firſt day any ſuch buſi<g ref="char:EOLhyphen"/>neſſe was taken in hand, for the Reaſons before-mentioned, his Certificate with theſe Names were read to the Commiſſi<g ref="char:EOLhyphen"/>oners. And upon conſideration that there being ſo many Mi<g ref="char:EOLhyphen"/>niſters and others in and about <hi>Weſtminſter,</hi> where he had ſo long lived, He might adde to his Teſtimony without much trouble to himſelf, one or two poſſibly more known to them then the Honourable perſons and others that had under-writ<g ref="char:EOLhyphen"/>ten, he was deſired ſo to do for their further ſatisfaction.</p>
+               <div type="refutation">
+                  <head>For that other paſſage.</head>
+                  <p>
+                     <hi>I ſay my Preſentation, for this they kept all the while that they might be informed of the value of it,</hi> &amp;c. compared with <hi>pag.</hi> 3. <hi>If they miſlike the Miniſter and probably like the Li<g ref="char:EOLhyphen"/>ving,</hi> &amp;c.</p>
+                  <p>He would intimate the Commiſſioners guilty of a very great wickedneſſe, which I am confident he hath not the leaſt ſhew of ground for; I do not beleeve it can be ſaid of any of them, that ever they have attempted directly or in<g ref="char:EOLhyphen"/>directly to pleaſure themſelves or any relation or friend of theirs, with any Living that for want of their Approbation hath hitherto become vacant; Much leſſe to diſapprove any one upon ſuch a vile conſideration: If there could have been any inſtance of this nature produced, I doubt not but he would have beſtowed it freely, and it would have ſerved him better then that ſtrained ſimple ſurmiſe, <hi>They kept his Preſen<g ref="char:EOLhyphen"/>tation three weeks, that they might be informed of the value of
+<pb n="8" facs="tcp:171456:6"/>the Living.</hi> 2. Is it probable a Patron will be ſo well pleaſed with the diſ-approbation of his Clerk as thus to reward any of thoſe that have done it? 3. Many good Livings that were in his Highneſſes gift had been void after that 24<hi rend="sup">th</hi> of <hi>June,</hi> which (for fit men) they might as likely have procured if their deſign had been for Livings. But they rather humbly endea<g ref="char:EOLhyphen"/>voured with his Highneſſe and his Councell, and thereupon obtained a Moneths time longer to prevent their being lap<g ref="char:EOLhyphen"/>ſed; It is a farre fetched ſtrain of Revenge to ſuggeſt againſt them ſuch wide unlikelihoods; The Lord pardon it.</p>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler</hi> §. 5.</head>
+               <p>
+                  <g ref="char:V">Ʋ</g>pon the firſt day of July I delivered my Certificate to their Clerk, and upon the third day I was called in before their Wor<g ref="char:EOLhyphen"/>ſhips, and <hi>M<hi rend="sup">r</hi>
+                  </hi> Nye having the Chair began thus:</p>
+            </div>
+            <div n="5" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 5.</head>
+               <p>Upon the firſt day of <hi>July,</hi> which was Saturday, on Mun<g ref="char:EOLhyphen"/>day the 3<hi rend="sup">d</hi> he was called in, here was no delay; <hi>Pag.</hi> 17. he ſaith, <hi>He hath fully recollected his Examinations;</hi> and here he himſelf ſets them down; Then certainly the Commiſſioners Examinations are not ſo long as he chargeth, <hi>pag.</hi> 4. For if this be the full collection which he hath printed, little more then a quarter of an hour would have diſpatched ſuch an ex<g ref="char:EOLhyphen"/>amination; If there be any thing left out, then he is unfaith<g ref="char:EOLhyphen"/>full in his relating: I have heard ſome of the Commiſſioners (who knowing in what a broken and in many things miſta<g ref="char:EOLhyphen"/>ken way he hath printed his Examinations) wonder with what conſcience he could offer (as in his Epiſtle to his High<g ref="char:EOLhyphen"/>neſſe) to be <hi>depoſed</hi> for the truth of them.</p>
+            </div>
+            <div n="6" type="section">
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler</hi> §. 6.</head>
+               <p>When they roſe I followed M<hi rend="sup">r</hi> 
+                  <hi>Nye,</hi> and askt him of the iſſue of my Examinations; He told me, The Commiſſioners did not Approve.—<hi>M<hi rend="sup">r</hi>
+                  </hi> Peters told him, That the Commiſſioners had not yet concluded any thing,—About a Fortnight after I met with <hi>M<hi rend="sup">r</hi>
+                  </hi> Lockier, and deſired him, That a Vote might paſſe
+<pb n="9" facs="tcp:171456:6"/>with me or againſt me; He ſaid, There was a Vote, and bid me ask the Clerk, whom upon the <hi>7<hi rend="sup">th</hi>
+                  </hi> of Auguſt I did, and having the Book reviewed, there was only this Recorded, That ſuch an One was Examined, and no more—</p>
+            </div>
+            <div n="6" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 6.</head>
+               <p>It is true which M<hi rend="sup">r</hi> 
+                  <hi>Nye</hi> told him, and was ſeconded by M<hi rend="sup">r</hi> 
+                  <hi>Lockier,</hi> I was preſent and remember it; I finde it alſo entred in the Book thus.</p>
+               <p>
+                  <hi>July</hi> 3<hi rend="sup">d</hi> M<hi rend="sup">r</hi> 
+                  <hi>Anthony Sadler his Certificate read, and the perſon Examined, ſix of the Commiſſioners being preſent and unſatisfied.</hi>
+               </p>
+               <p>He being diſcourſed with again in the afternoon, when there was a fuller company, the reſult of it is recorded thus.</p>
+               <p>
+                  <hi>July</hi> 3<hi rend="sup">d</hi> M<hi rend="sup">r</hi> 
+                  <hi>Anthony Sadler who was examined in part in the morning, was this afternoon called in again, and fur<g ref="char:EOLhyphen"/>ther examined, and not approved.</hi>
+               </p>
+               <p>And I can affirm from ſome further remembrance there written, That there was not one man of nine or ten then preſent that could give an affirmative for his approbation. With what forhead can this man affirm, that <hi>having the Book reviewed there was only this recorded, that ſuch a one was Exa<g ref="char:EOLhyphen"/>mined, and no more.</hi> Whereas it being thus written in the book with mine own hand that very day, he was laſt examined; I can take my Oath there hath not been one word added ſince it was firſt written. I queſtion much whether M<hi rend="sup">r</hi> 
+                  <hi>Peters</hi> would tell him any thing otherwiſe then what was; If he did miſtake him, he had means to rectifie himſelf by what was recorded; But he is ſo unwilling to ſee of himſelf any thing that is diſpleaſing, that he can reade no <hi>unſatisfaction</hi> or <hi>diſ<g ref="char:EOLhyphen"/>approvement</hi> in the Book, though it be written plainly, and in reſpect to him, and in the common form in which the en<g ref="char:EOLhyphen"/>try of any man diſapproved is ordinarily made.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="10" facs="tcp:171456:7"/>
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler</hi> §. 7.</head>
+               <p>Sir, I beſeech you to hold the Scale with Piety and Prudence, and let it not be turned by Policy or Prejudice.</p>
+            </div>
+            <div n="7" type="answer">
+               <head>
+                  <hi>Anſwer</hi> 7.</head>
+               <p>He ſuppoſeth him that is in the chair to hold the ſcales <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Grant it, But if all the weight be put in one ſcale, and nothing in the other, as it was in his vote; It is not the holding of the Scales though with never ſo much policy or cunning can alter the reſult: I wonder what imaginable advantage it can be to any of the Commiſſioners or any that belongs to them, that a man be put by, more then if he be admittted; Wherein lieth the Policy? To pleaſure ſome friend or rela<g ref="char:EOLhyphen"/>tion with their places that are diſapproved? They are of all men leaſt capable, as hath been ſhewed before: If matter of Profit, I can this truly ſay and have to prove it, Twenty, For<g ref="char:EOLhyphen"/>ty Pounds at a time hath been offered me to get a Perſon ap<g ref="char:EOLhyphen"/>proved, but I never heard of a Farthing offered to put any man by: And for any eaſe to them by it, I can truly ſay from what I have often heard and ſeen, Ten perſons (if of worth) have been put into Places with leſs trouble, then ordinarily one man is diſapproved; The Indulgence of the Commiſ<g ref="char:EOLhyphen"/>ſioners is ſuch, and their unwillingneſs to miſunderſtand of any Perſons worth, that Liberty is given to thoſe that for preſent are diſapproved, to return and be examined again even <hi>toties quoties:</hi> If they perceive a man not ſo ready, or incom<g ref="char:EOLhyphen"/>poſed, they ordinarily intreat one or two of the Commiſ<g ref="char:EOLhyphen"/>ſioners to diſcourſe with him in a more private way, and make a report: It is ſeldom any Perſon is diſapproved, ſo long as any one Commiſſioner hath hopes, that poſſibly he may ſome other way, or at ſome other time give better ſatisfaction.</p>
+            </div>
+            <div n="8" type="section">
+               <head>M<hi rend="sup">r</hi> 
+                  <hi>Sadler,</hi> §. 8.</head>
+               <p>I have, and ſhall again (as occaſion ſerves,) Preach, both Practicall, and School-Divinity; This for Manifeſtation in regard of my Sufficiency; and That, for Edification in regard of the People.</p>
+            </div>
+            <div n="8" type="answer">
+               <pb n="11" facs="tcp:171456:7"/>
+               <head>
+                  <hi>Anſwer</hi> 8.</head>
+               <p>It ſeems by his own confeſſion he doth not alwayes Preach for Edification, but ſometimes for Oſtentation, and this he <hi>hath</hi> done, and this he is reſolved <hi>to do again:</hi> Is ſuch a man fit to be Approved to take Charge of the Souls of People, that purpoſeth and profeſſeth this to be his purpoſe ſo often <hi>as occaſion ſerves,</hi> that is, when he hath an opportunity to <hi>manifest his Sufficiency,</hi> then out ſhall come his School-quiddities, and all his Fine Holliday Sermons, although he knows before-hand this will be onely for the manifeſtation of his Sufficiency, or (as the Vulgar) Preaching himſelf, and knows alſo its an other kind of Divinity, and when to call; it that is, for Edification of the People?</p>
+               <p>But, M<hi rend="sup">r</hi> 
+                  <hi>Sadler,</hi> whatſoever you boaſt, this ſurely is not your conſtant Practiſe, for when you were before the Commiſ<g ref="char:EOLhyphen"/>ſioners for their Approvement (a fit occaſion) there was little of theſe fine School-matters for the manifeſtation of your Suf<g ref="char:EOLhyphen"/>ficiency: No, and I beleeve others will ſo judge now you are in print, though your Anſwers have thriven well for what they were, ſince they have been in your own keeping, and much better fitted to the Queſtions, and the Queſtions better fitted to their Anſwers.</p>
+               <p>But Sir, Why do you tell the Commiſſioners this (that you are reſolved <hi>as occaſion ſerves,</hi> to preach your Self as well as Edifie the People) and then tell his Highneſs, and the Parlia<g ref="char:EOLhyphen"/>ment, and all the Nation, you have told them ſo; and then complain of their Partiality, Injuſtice, <hi>&amp;c.</hi> in not approving you? Certainly this is not ſuch a tranſcendent high vertue in a Preacher, that whereſoever it is found, though otherwiſe weak, carnall, ſuperſtitious, or what ever other defects, this admirable dexterity in making uſe of Practical and School-divinity muſt bear him out?</p>
+               <p>Now to ſumme up all for <hi>Concluſion:</hi> By this Re-examina<g ref="char:EOLhyphen"/>tion of M<hi rend="sup">r</hi> 
+                  <hi>Sadler,</hi> we may obſerve what he ſeems to be in his own, and what he deſerves to be in other mens opinion. He repreſents himſelf as one converted, when <hi>at his ſecret devoti<g ref="char:EOLhyphen"/>on,</hi> and now <hi>as ſure he hath the life of grace in him, as he
+<pb n="12" facs="tcp:171456:8"/>is ſure he hath the life of nature,</hi> pa. 9. and <hi>applieth Chriſt</hi> with like confidence as <hi>Thomas</hi> did when he ſaid <hi>My Lord and my God</hi> (pa. 12.) One <hi>that loves the Brethren, and all his delight is upon the Saints: Called to the Miniſtry by the Spirit and D<hi rend="sup">r</hi>
+                  </hi> Corbet, <hi>and takes Preferment out of zeal to advance Gods glory.</hi> For this mans ſtate in grace, farre be it from me to judg it; I ſhall examine only the viſibility and proof of it in thoſe fruits mentioned.</p>
+               <p n="1">1. For <hi>his love to ohe brethren, and delight in the Saints,</hi> his Practice little confirms it: Where is that <hi>covering of In<g ref="char:EOLhyphen"/>firmities?</hi> Nay is there not a diſcovering and carrying them forth into the world, Preaching <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m upon the houſe top; Printing them, as he profeſſeth, for thoſe that live in <hi>after ages:</hi> And theſe too ſo farre from being <hi>their</hi> Infirmities, that they are evidently <hi>his:</hi> They are only his evil ſurmiſes, and impu<g ref="char:EOLhyphen"/>dent ſlanders out of a baſe ſelf-end caſt upon his Brethren, to piece up to himſelf a reputation of worth and Learning: I ſay theſe Lyes and falſhoods are his; either naturally begotten, coming out of his own loyns, or by adoption made his, he own<g ref="char:EOLhyphen"/>ing and reporting them.</p>
+               <p n="2">2. And for his Pretended zeal in his function, or indeed his underſtanding what belongs to ſuch a High Calling, Com<g ref="char:EOLhyphen"/>pare what hath been ſaid in the laſt Anſwer with <hi>pa.</hi> 17. <hi>I ſhall God willing imploy my talent to my utmoſt power, to the beſt ad<g ref="char:EOLhyphen"/>vantage.</hi> And what is the beſt advantage? He tells you <hi>he hath,</hi> yea <hi>and ſhall again</hi> preach with regard to his own advantage, credit and applauſe of men, that it may be ſaid of him, There goeth a great School-Divine: And he is of this opinion, He being ſuch a Preacher is <hi>Approved both of God and the world,</hi> though their Approbation ſeldom go together. And now I am come to the bottom of the quarrell I ſhall end, which is this; M<hi rend="sup">r</hi> 
+                  <hi>Sadler</hi> being in his own opinion a man <hi>throughly fur<g ref="char:EOLhyphen"/>niſhed</hi> with <hi>Practicall</hi> and <hi>School-Divinity,</hi> a knowing man in in what is the duty of a Preacher, which he learnedly expreſ<g ref="char:EOLhyphen"/>ſeth in theſe words, <hi>I know a Teacher of Gods word hath a fourfold duty, and the word of God a fourfold uſe, three practique and one contemplative</hi> (and there is all he hath yet of this diſcovery) one that though <hi>he cannot anſwer</hi> quodlibets ex<g ref="char:EOLunhyphen"/>tempore,
+<pb n="13" facs="tcp:171456:8"/>
+                  <hi>nor make out upon the ſuddain the guifts and graces that are within him, yet it is well known he hath preached in a City, and (the Text given him) upon a dayes warning:</hi> Becauſe this man for theſe high qualifications (as he thinks) may not therefore be approved with all his defects, The Commiſſio<g ref="char:EOLhyphen"/>ners and their Ordinance; and proceedings, and all muſt forth<g ref="char:EOLhyphen"/>with be diſapproved: And leading up thus bravely, he ex<g ref="char:EOLhyphen"/>pects and calls upon his Highneſs the Lord Protector, the Ho<g ref="char:EOLhyphen"/>nourable Parliament, the Clergy, the People of this Nation, the preſent age, and the ages to come, to riſe up and follow cloſe after him againſt thoſe buſie men the Approvers, that do the utmoſt in them <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to keep mens ſouls from being ſtarved by the remainder of this Epiſcopall generation.</p>
+            </div>
+            <div type="certificate">
+               <head>Between <hi>Page</hi> 2. add <hi>Page</hi> 3. adde this.</head>
+               <head type="sub">A Copy of a Certificate according to the Ordinance.</head>
+               <p>WE whoſe Names are under-written, for the better ſatisfaction of the Commiſſioners for Approbation of Publick Preachers, do teſtifie upon our Perſonal knowledge, That M<hi rend="sup">r</hi> 
+                  <hi>A. B.</hi> of <hi>C.</hi> in the County of <hi>D.</hi> is a Perſon of a holy and good Converſation; In witneſſe whereof we hereunto ſubſcribe this—day of—<hi>Ann. Dom.</hi>
+               </p>
+               <p>
+                  <hi>This, or to ſome ſuch purpoſe, to be teſtified under the hands of three perſons of known godlineſſe and integrity, whereof one at leaſt to be a Prea<g ref="char:EOLhyphen"/>cher of the Goſpel in ſome conſtant ſetled place.</hi>
+               </p>
+            </div>
+            <trailer>And ſo much for this time.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
